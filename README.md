@@ -2,6 +2,10 @@
 
 Esse projeto usa o Firebase como intermediario de login com o google e banco de dados.
 
+### Ver projeto em funcionamento
+
+- https://react-chat-app-88741.web.app/
+
 ### Primeiro passo assim que baixar o projeto
 
 - npm install
